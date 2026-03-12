@@ -153,7 +153,7 @@ curl -X POST http://localhost:8000/report/generate \
 
 Each generated report contains:
 
-1. **Patient Information** — Demographics, blood type, allergies, report date
+1. **Patient Information** — Demographics, blood group type, allergies, report date
 2. **S – Subjective** — Patient-reported history, symptoms, chief complaint
 3. **O – Objective** — Examination findings, laboratory results, imaging
 4. **A – Assessment** — Clinical diagnoses and assessments
