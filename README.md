@@ -15,7 +15,7 @@ This tool helps doctors quickly grasp the full context of a disease, reducing th
 - **Treatment History & Recommendations** — Summary of past therapies and current medications
 - **AI-Powered Insights** — Uses OpenAI GPT-4o-mini when an API key is available, with intelligent rule-based fallback
 - **Academic References** — Peer-reviewed references included in every report
-- **REST API** — FastAPI application with interactive Swagger docs
+- **REST API** — FastAPI application with interactive Swagger docs.
 
 ---
 
